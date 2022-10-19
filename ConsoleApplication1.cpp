@@ -5,8 +5,8 @@
 
 int main()
 {
-    std::cout << "i trust my teammate\n";
-    std::cout << "and they trust me\n";
+    std::cout << "Hello GitHub World\n";
+    std::cout << "New branch changed\n";
    
 }
 
