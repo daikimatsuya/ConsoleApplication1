@@ -7,7 +7,7 @@ int main()
 {
     std::cout << "i trust my teammate\n";
     std::cout << "and they trust me\n";
-    std::cout << "i trust my teammate\n";
+   
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
